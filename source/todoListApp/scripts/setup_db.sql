@@ -1,0 +1,4 @@
+CREATE DATABASE ooad;
+CREATE USER dbuser@localhost IDENTIFIED BY '123456';
+GRANT ALL PRIVILEGES ON ooad.* TO 'dbuser'@'localhost';
+FLUSH PRIVILEGES;

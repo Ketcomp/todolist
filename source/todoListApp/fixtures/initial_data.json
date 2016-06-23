@@ -1,0 +1,96 @@
+[{
+  "model": "todoListApp.ToDoItem",
+  "pk": 1,
+  "fields": {
+    "title": "Make initial draft",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 2,
+  "fields": {
+    "title": "Fix wifi connectivity issues",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 3,
+  "fields": {
+    "title": "Go to grocery store",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 4,
+  "fields": {
+    "title": "Prepare for office meeting tomorrow",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 5,
+  "fields": {
+    "title": "Book a flight ticket for next week ",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 6,
+  "fields": {
+    "title": "Pay bills for this month",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 1
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 7,
+  "fields": {
+    "title": "Make initial draft",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 2
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 8,
+  "fields": {
+    "title": "Fix wifi connectivity issues",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 2
+  }
+}, {
+  "model": "todoListApp.ToDoItem",
+  "pk": 9,
+  "fields": {
+    "title": "Go to grocery store",
+    "color": "19C29E",
+    "status": 0,
+    "parent_list": 2
+  }
+}, {
+  "model": "todoListApp.ToDoList",
+  "pk": 1,
+  "fields": {
+    "title": "List 1",
+    "status": 0
+  }
+}, {
+  "model": "todoListApp.ToDoList",
+  "pk": 2,
+  "fields": {
+    "title": "List 2",
+    "status": 0
+  }
+}]
